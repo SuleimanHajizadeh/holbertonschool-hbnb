@@ -4,9 +4,6 @@
 
 The HBnB Evolution project aims to develop a simplified version of an Airbnb-like application. The application enables user management, property listing, review submissions, and amenity management. This project was developed as part of the Holberton School Web & Mobile Developer curriculum and is structured in four progressive parts, from technical documentation to a fullstack web application.
 
-## Team Members
-- Jeanpaul Dijeont
-
 ## Table of Contents
 
 1. [Project Objectives](#project-objectives)
@@ -21,7 +18,6 @@ The HBnB Evolution project aims to develop a simplified version of an Airbnb-lik
 6. [API Endpoints](#api-endpoints)
 7. [Installation & Usage](#installation--usage)
 8. [Testing](#testing)
-9. [Author](#author)
 
 ## Project Objectives
 
@@ -177,7 +173,3 @@ To run unit tests:
 ```bash
 python3 -m unittest discover tests
 ```
-
-## Author
-
-This project was completed as part of the Holberton School curriculum by **Jean-Paul Dijeont**.
